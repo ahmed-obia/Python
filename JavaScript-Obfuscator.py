@@ -1,4 +1,4 @@
-# Supports all browserd and can be used in websites without effecting the code
+# Supports all browser and can be used in websites without effecting the code
 import sys
 
 TABLE = dict()
