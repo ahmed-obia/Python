@@ -15,3 +15,7 @@
 **Running**
 
 ``py graphic.py``
+
+## Credits 
+
+**Ahmed Alaa**
